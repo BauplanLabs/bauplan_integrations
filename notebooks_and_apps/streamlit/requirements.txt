@@ -1,0 +1,4 @@
+bauplan
+streamlit
+pandas
+matplotlib

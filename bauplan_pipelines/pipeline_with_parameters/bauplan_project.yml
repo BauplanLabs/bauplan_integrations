@@ -1,0 +1,7 @@
+project:
+    id: 2b74eb5c-548f-4192-bf18-fcfa33a0746f
+    name: test-pipeline
+parameters:
+    start_time:
+        type: str
+        default: "2022-12-15T00:00:00-05:00"
